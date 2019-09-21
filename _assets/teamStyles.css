@@ -3,8 +3,11 @@
     justify-content: space-evenly;
 }
 .card{
-    margin: 1rem 1.5rem;
+    margin: 1rem 0rem;
 }
 section h1{
     text-align: center;
+}
+section ul{
+    margin: 0;
 }

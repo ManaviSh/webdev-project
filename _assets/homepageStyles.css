@@ -50,9 +50,9 @@ section a {
 	height: calc(100vh - 4.5rem);
 	position: relative;
 }
-.content-wrapper>h1 {
+.hero>h1 {
 	position: absolute;
-	top: 40%;
+	top: 35%;
 	transform: translateY(-50%);
 	left: 0;
 	right: 0;
@@ -61,10 +61,12 @@ section a {
 	padding: 1rem 1.5rem;
 	text-align: left;
 	z-index: 0;
+	color: whitesmoke;
 }
 .hero>p {
 	width: 100%;
 	align-self: flex-end;
+	color: yellow;
 }
 .section-image {
     padding: 0rem 0.5rem;
