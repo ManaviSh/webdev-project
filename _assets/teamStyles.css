@@ -1,0 +1,10 @@
+.team{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card{
+    margin: 1rem 1.5rem;
+}
+section h1{
+    text-align: center;
+}
