@@ -30,9 +30,15 @@ header>nav{
 	background-repeat: no-repeat;
 	background-size: cover;
   }
+  .news{
+	overflow-y: scroll;
+	height: 500px;
+  }
 ul {
-    list-style-type: none;
+	list-style-type: none;
+	
 }
+
 section {
     padding: 1rem 1.5rem;
 }
