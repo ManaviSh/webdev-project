@@ -30,10 +30,7 @@ header>nav{
 	background-repeat: no-repeat;
 	background-size: cover;
   }
-  .news{
-	overflow-y: scroll;
-	height: 500px;
-  }
+
 ul {
 	list-style-type: none;
 	
