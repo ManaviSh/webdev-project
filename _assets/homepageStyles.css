@@ -17,6 +17,7 @@ header>nav{
     height: calc(100vh - 4.5rem);
 	overflow-y: auto;
 	scroll-behavior: smooth;
+	width: 100%
 }
 .parallax {
 	/* The image used */
@@ -37,7 +38,9 @@ ul {
 }
 
 section {
-    padding: 1rem 1.5rem;
+	display: inline-block;
+	padding: 1rem 1rem;
+	margin: 0px 0px;
 }
 section p {
     text-align: justify;
@@ -82,12 +85,7 @@ section a {
 section>.row {
 	justify-content: space-between;
 }
-section#about {
-	background: rgb(255, 255, 255);
-}
-section#about > .container {
-	margin: 0 auto;
-}
+
 .test>h2 {
 	color: #333;
 	text-align: center;
