@@ -42,8 +42,7 @@ section {
 	margin: 0px 0px;
 }
 section> .container{
-	display:inline-block;
-	margin: 0px 0px;
+	margin: 0px auto;
 }
 section p {
 	text-align: justify;
